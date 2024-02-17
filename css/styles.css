@@ -17,4 +17,16 @@
 
 html {
     font-family: figtree, Arial, Helvetica, sans-serif;
+    background-color: var(--yellow);
+}
+
+main {
+    width: 24rem;
+    height: 32.625rem;
+    background-color: white;
+    border: 1px solid var(--black);
+    border-radius: 1.25rem;
+    box-shadow: 0.5rem 0.5rem var(--black);
+    margin-inline: auto;
+    margin-top: 13.656rem;
 }
