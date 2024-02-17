@@ -44,21 +44,14 @@ section {
 
 section h2 {
     margin-bottom: 0.9rem;
-}
-
-section h3 {
-    margin-bottom: 1rem;
-}
-
-section h1 {
-    margin-bottom: 1.1rem;
-}
-
-section h2 {
     display: inline-block;
     padding: 0.4rem 0.75rem;
     border-radius: 0.25rem;
     background-color: var(--yellow);
+}
+
+section h3 {
+    margin-bottom: 1rem;
 }
 
 h2, h3 {
@@ -67,6 +60,13 @@ h2, h3 {
 
 h1 {
     font-size: 1.5rem;
+    margin-bottom: 1.1rem;
+    transition: color 500ms;
+}
+
+h1:hover {
+    color: var(--yellow);
+    cursor: pointer;
 }
 
 h1, h2 {
@@ -93,13 +93,4 @@ footer {
     display: flex;
     align-items: center;
     gap: 0.8rem;
-}
-
-h1 {
-    transition: color 500ms;
-}
-
-h1:hover {
-    color: var(--yellow);
-    cursor: pointer;
 }
