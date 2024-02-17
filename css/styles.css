@@ -29,4 +29,10 @@ main {
     box-shadow: 0.5rem 0.5rem var(--black);
     margin-inline: auto;
     margin-top: 13.656rem;
+    padding: 1.5rem;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 0.8rem;
 }
