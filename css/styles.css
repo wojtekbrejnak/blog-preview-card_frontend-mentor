@@ -36,3 +36,11 @@ img {
     max-width: 100%;
     border-radius: 0.8rem;
 }
+
+section {
+    padding-block: 1.5rem;
+}
+
+section :is(h1, h2, h3) {
+    margin-bottom: 0.75rem;
+}
