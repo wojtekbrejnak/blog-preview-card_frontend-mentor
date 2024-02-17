@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'figree';
+    src: url('../assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+  }
+
+:root {
+    --yellow: hsl(47, 88%, 63%);
+    --grey: hsl(0, 0%, 50%);
+    --black: hsl(0, 0%, 7%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
