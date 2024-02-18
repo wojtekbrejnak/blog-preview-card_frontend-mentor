@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
-I am currently undertaking my third ‘Newbie’ challenge on Frontend Mentor. This project serves as an opportunity for me to consolidate and apply my knowledge in web development.
+I am currently undertaking my third ‘Newbie’ challenge on Frontend Mentor. This project serves as an opportunity for me to consolidate and apply my knowledge in web development. I tried to perfectly match my project with provided design files.
 
 ### Screenshot
 
