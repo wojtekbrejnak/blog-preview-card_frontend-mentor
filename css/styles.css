@@ -21,6 +21,12 @@ html {
     background-color: var(--yellow);
 }
 
+body {
+    min-height: 100svh;
+    display: grid;
+    place-items: center;
+}
+
 main {
     width: 24rem;
     height: 32.625rem;
@@ -28,8 +34,6 @@ main {
     border: 1px solid var(--black);
     border-radius: 1.25rem;
     box-shadow: 0.5rem 0.5rem var(--black);
-    margin-inline: auto;
-    margin-top: 13.656rem;
     padding: 1.4rem;
     transition: box-shadow 300ms;
 }
@@ -112,8 +116,6 @@ footer {
         border: 1px solid var(--black);
         border-radius: 1.25rem;
         box-shadow: 0.5rem 0.5rem var(--black);
-        margin-inline: auto;
-        margin-top: 9.688rem;
         padding: 1.4rem;
     }
 
