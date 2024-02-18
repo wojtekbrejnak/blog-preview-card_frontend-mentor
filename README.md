@@ -19,27 +19,32 @@ I am currently undertaking my third ‘Newbie’ challenge on Frontend Mentor. T
 
 ### Screenshot
 
--- In progress --
+![screenshot_desktop](./assets/images/screenshot_desktop.png)
+![screenshot_mobile](./assets/images/screenshot_mobile.png)
 
 ### Links
 
--- In progress --
+- Solution URL: [GitHub](https://github.com/wojtekbrejnak/blog-preview-card_frontend-mentor)
+- Live Site URL: [GitHub Pages](https://wojtekbrejnak.github.io/blog-preview-card_frontend-mentor)
 
 ## My process
 
 - Project Planning: I started by reading the requerments on `Challange Hub` and downloading starter files and design Files.
 - Setting Up Environment: I prefer using VS Code and it was everything I needed in this newbie project. 
-
--- In progress --
+- HTML Structure: I began by creating the basic HTML structure for my project. This included setting up the main HTML file, organizing elements, and creating semantic tags.
+- CSS Styling: I used CSS to style my project. This involved creating layouts, applying colors, fonts.
+- Figma Workflow: I used Figma design files to build more accurate solution (fonts, colors etc.).
+- Version Control: I used Git for version control. It's my first Front-end mentor project and I made mistake by commiting completed project. 
+- Documentation: Documenting everything is crucial when working as Developer so I created this file with great attention hoping that it will be helpful for future reference and sharing with others.
 
 ### Built with
 
 - HTML5
-- CSS
+- CSS3
 
 ### What I learned
 
--- In progress --
+I acquired proficiency in the fundamentals of HTML, CSS, and working with Figma files. This knowledge has been invaluable for my project development.
 
 ### Continued development
 
