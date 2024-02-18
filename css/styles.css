@@ -116,4 +116,16 @@ footer {
         margin-top: 9.688rem;
         padding: 1.4rem;
     }
+
+    h1 {
+        font-size: 1.25rem;
+    }
+
+    section h2, h3 {
+        font-size: 0.75rem;
+    }
+
+    p {
+        font-size: 0.875rem;
+    }
 }
